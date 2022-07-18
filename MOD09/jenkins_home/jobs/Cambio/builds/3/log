@@ -1,0 +1,8 @@
+Started by user [8mha:////4MDI3n8D3sbu450iAUAUomVKsCRXKrWKNe0N6Nt1qx3JAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYe/dLi1CL99EygIQUATSUj/cEAAAA=[0mGian Gabriel Panacioni
+Running as SYSTEM
+Building in workspace /var/jenkins_home/master
+[master] $ /bin/sh -xe /tmp/jenkins14086914038779141113.sh
++ cd /cambio
++ python3 main.py
+Cotação atual: 5.0534
+Finished: SUCCESS
