@@ -6,5 +6,6 @@ Repositório de códigos do bootcamp de ED de Mai/22
 
 ## Facilitadores
 
+* How
 * André Sionek
 * Rhuan Lima
